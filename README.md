@@ -22,4 +22,4 @@ T2.3: Covid-19 Positive Number Plot. The second plot consists of a basic line gl
 general trend of positive cases, and add a RangeTool, with which we can observe detailed scatter
 points distribution in the first plot. Add a hover tool to display the date and the corresponding
 positive number.
-T2.4: Arrange two plots in one layout appropriately
+T2.4: Arrange two plots in one layout appropriately.
