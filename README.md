@@ -1,4 +1,4 @@
-# Project-6--Covid-test
+# Project-6--Covid-test-Switzerland
 
 In this exercise, we will focus on visualizing covid-19 tests statistics in Switzerland. The goal of this exercise
 is to display and link daily total tests numbers together with positive cases numbers in two plots, so that
